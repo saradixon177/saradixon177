@@ -7,5 +7,5 @@ I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and re
 In my free time, I love crocheting, painting, hiking, and camping 🏔
 
 ## Important Links
-[My LinkedIn](https://www.linkedin.com/in/saradixon177/)
-[My Website](saradixon.net)
+* [My LinkedIn](https://www.linkedin.com/in/saradixon177/)
+* [My Website](saradixon.net)
