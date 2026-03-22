@@ -1,4 +1,5 @@
 ![alt text](https://github.com/saradixon177/saradixon177/blob/main/P1050305%20-%20Cropped.JPG)
+<h1 style="text-align:center;">
 # Hello, I am Sara! 🌸
 
 ## Introduction
