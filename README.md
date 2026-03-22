@@ -8,6 +8,6 @@ For the past four years, I have scaled and managed a key geospatial service from
 
 I am currently diving into Python and math in preparation for my Master's in Data Science. Beyond the screen, I am a lover of the outdoors and creative hobbies - you can find me camping, hiking, and picking up my crochet hook or a great book 🏔 
 
-## Important Links
+## Website Links
 * [My LinkedIn](https://www.linkedin.com/in/saradixon177/)
 * [My Website](saradixon.net)
