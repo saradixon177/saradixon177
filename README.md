@@ -1,6 +1,5 @@
 ![alt text](https://github.com/saradixon177/saradixon177/blob/main/P1050305%20-%20Cropped.JPG)
-<h1 style="text-align:center;"
-# Hello, I am Sara! 🌸>
+<h1 align="center">Hello, I am Sara! 🌸</h1>
 
 ## Introduction
 I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and research to solve problems and improve workflows. I have been at my company for almost 4 years, and in that time, I have grown and managed one of our geospatial services. Additionally, I use SQL queries in my day-to-day work to summarize our geospatial processing metrics and identify opportunities to improve our services for customers. 
