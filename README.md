@@ -2,9 +2,11 @@
 <h1 align="center">Hello, I am Sara! 🌸</h1>
 
 ## Introduction
-I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and research to solve problems and improve workflows. I have been at my company for almost 4 years, and in that time, I have grown and managed one of our geospatial services. Additionally, I use SQL queries in my day-to-day work to summarize our geospatial processing metrics and identify opportunities to improve our services for customers. 
+**I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and research to solve problems and improve workflows.**
 
-In my free time, I love crocheting, painting, hiking, and camping 🏔
+For the past four years, I have scaled and managed a key geospatial service from the ground up. Additionally, I use SQL queries to summarize our geospatial processing metrics and identify opportunities to improve our customer experiences.
+
+I am currently diving into Python and math in preparation for my Master's in Data Science. Beyond the screen, I am a lover of the outdoors and creative hobbies - you can find me camping, hiking, and picking up my crochet hook or a great book 🏔 
 
 ## Important Links
 * [My LinkedIn](https://www.linkedin.com/in/saradixon177/)
