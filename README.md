@@ -10,5 +10,5 @@ I am currently diving into Python and math in preparation for my Master's in Dat
 
 ## Website Links
 * [My LinkedIn](https://www.linkedin.com/in/saradixon177/)
-* [My Website](saradixon.net) - My website showcases my photography and art 
+* [My Website](https://saradixon.net) - My website showcases my photography and art 
 
