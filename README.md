@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I am Sara! 🌸</h1>
 
 ## Introduction ⚡
-**I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and research to solve problems and improve workflows.**
+**I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and research to solve problems and improve workflows. I am interested in taking my skills and applying them to climate and environnetal issues.**
 
 For the past four years, I have scaled and managed a key geospatial service from the ground up. Additionally, I use SQL queries to summarize our geospatial processing metrics and identify opportunities to improve our customer experiences.
 
