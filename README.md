@@ -4,7 +4,7 @@
 ## Introduction ⚡
 **I am a Geospatial Engineer and Data Analyst who focuses on utilizing data and research to solve problems and improve workflows. I am interested in taking my skills and applying them to climate and environnetal issues.**
 
-For the past four years, I have scaled and managed a key geospatial service from the ground up. Additionally, I use SQL queries to summarize our geospatial processing metrics and identify opportunities to improve our customer experiences.
+For the past four years, I have scaled and managed a key geospatial service from the ground up. Additionally, I use SQL to summarize our geospatial processing metrics and identify opportunities to improve our customer experiences.
 
 Beyond the screen, I am a lover of the outdoors and creative hobbies - you can find me camping, hiking, and picking up my crochet hook or a great book 🏔 
 
